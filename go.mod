@@ -5,6 +5,7 @@ go 1.14
 require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/google/uuid v1.3.0
+	github.com/haitham911/minio-go v1.0.1 // indirect
 	github.com/json-iterator/go v1.1.11
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
